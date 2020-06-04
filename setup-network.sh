@@ -86,7 +86,7 @@ wlanInterfaceNameValid=true
 # may change the Networking Interface name.
 wlanInterfaceNameDefault="wlan0"
 wlanInterfaceName="$wlanInterfaceNameDefault"
-apInterfaceName="uap0"
+apInterfaceName="eth1"
 hostNameDefault="raspberrypi"
 hostName="$hostNameDefault"
 
